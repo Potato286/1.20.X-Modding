@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Z#Z",
+    "YZY",
+    "XZX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "Y": {
+      "item": "minecraft:redstone_block"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Z": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "mayham:miningmachine_spawn_egg"
+  }
+}
